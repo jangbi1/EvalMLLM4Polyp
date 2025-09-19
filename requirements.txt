@@ -1,0 +1,28 @@
+# python=3.10.12
+# cuda=12.6
+
+pillow==10.4.0
+openai==1.65.4
+openai-clip==1.0.1
+opencv-python==4.8.1.78
+python-dotenv==1.0.1
+google-ai-generativelanguage==0.6.15
+google-api-core==2.24.2
+google-api-python-client==2.165.0
+google-auth==2.32.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+google-genai==1.7.0
+google-generativeai==0.8.4
+googleapis-common-protos==1.69.2
+torch==2.5.0a0+b465a5843b.nv24.09
+transformers==4.51.3
+accelerate
+huggingface-hub==0.34.4
+qwen-vl-utils==0.0.11
+matplotlib==3.10.0
+scikit-learn==1.6.1
+scipy==1.11.4
+seaborn==0.13.2
+pandas==2.1.4
+numpy==1.26.4
